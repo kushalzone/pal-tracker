@@ -4,7 +4,7 @@ PIVOTAL Platform  Acceleration Lab - Sessions.
 *Commonly used commands*
 
 <pre>
-====CLOUD FOUNDARY====
+====CLOUD FOUNDRY====
 cf login -a api.run.pivotal.io
 cf push
 cf target -s review
