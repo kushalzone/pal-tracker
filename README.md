@@ -1,7 +1,7 @@
 # pal-tracker
 PIVOTAL Platform  Acceleration Lab - Sessions. 
 
-###Commonly used commands
+*Commonly used commands*
 
 <pre>
 ====CLOUD FOUNDARY====
