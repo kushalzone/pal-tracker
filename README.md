@@ -58,6 +58,11 @@ fly expose-pipeline
 fly hide-pipeline
 fly get-pipeline
 fly destroy-pipeline
+
+====GIT COMMANDS=====
+git remote add origin2 https://github.com/{useridhere}/pal-tracker-distributed.git
+git push origin2 --force
+
 </pre>
 
 Weblinks:
